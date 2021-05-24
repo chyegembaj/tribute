@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+}
+#main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+
+#img-div img {
+  width: 800px;
+  display: block;
+  margin: 0px auto;
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+}
+#img-div a {
+  text-decoration: none;
+}
+
+ul {
+  max-width: 550px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+}
+
+li {
+  margin: 16px 0px;
+}
